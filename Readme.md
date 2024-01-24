@@ -13,3 +13,4 @@ We use K Nearest Neighbours Regression technique in the model to predict the sal
 <br>Luxuries - Various luxuries available to the buyer
 <br>Foundation of the house
 <br>All the above features either had a very high correlation with the Sale Price of the house, or logically made sense to be in the interest of a house buyer.
+<br><br> For the integration in Gradio, I wrote the code, but it was constantly throwing errors, I have attached the ipynb of the same for your reference. Due to the shortage of time, I could not implement it properly.
